@@ -6,7 +6,7 @@ PranavSK
 
 **Programming Language used :** Python
 
-**IDE :** Jupyter-Notebook
+**IDE :** Google Colab
 
 
                            
