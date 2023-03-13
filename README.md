@@ -19,7 +19,7 @@ This particular ML project is usually referred to as the “Hello World” of Ma
 
 Dataset Link : http://archive.ics.uci.edu/ml/machine-learning-databases/iris
 
-Linkedin post link : https://www.linkedin.com/feed/update/urn:li:groupPost:12540463-7039497982114758656/
+Linkedin post link : https://www.linkedin.com/feed/update/urn:li:activity:7039684260231860224?utm_source=share&utm_medium=member_desktop
 
 
 # TASK-2
@@ -32,7 +32,7 @@ Linkedin post link : https://www.linkedin.com/feed/update/urn:li:activity:703968
 
 # TASK-3
 
-Music Recommendation
+**Music Recommendation**
 
 Music recommender systems can suggest songs to users based on their listening patterns.
 
