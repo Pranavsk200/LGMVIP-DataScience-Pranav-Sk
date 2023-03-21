@@ -86,7 +86,8 @@ Linkedin post link : https://www.linkedin.com/feed/update/urn:li:groupPost:12540
 
 Begin my neural network machine learning project with the MNIST Handwritten Digit Classification Challenge and using Tensorflow and CNN. It has a very user-friendly interface that’s ideal for beginners.
 
-Dataset Link :   
+Dataset Link : https://en.wikipedia.org/wiki/MNIST_database
+Linkedin post link :
 
 
 # TASK-8
