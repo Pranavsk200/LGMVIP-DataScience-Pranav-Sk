@@ -65,7 +65,6 @@ As a security/defense analyst, try to find out the hot zone of terrorism.
 
 Dataset Link :  https://bit.ly/2TK5Xn5
 
-Linkedin post link : 
 
 
 # TASK-6
@@ -77,7 +76,7 @@ The purpose is if we feed any new data to this classifier, it would be able to  
 
 Dataset Link :   https://bit.ly/3kXTdox
 
-Linkedin post link : 
+Linkedin post link : https://www.linkedin.com/feed/update/urn:li:groupPost:12540463-7044008051216961536/
 
 
                                         **Advanced Level**
