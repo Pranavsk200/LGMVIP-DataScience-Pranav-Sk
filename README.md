@@ -50,7 +50,7 @@ We need to read the image in RBG format and then convert it to a grayscale image
 
 For this task i used two images, one is of a BIRD and other is of a GIRL!!
 
-Linkedin post link : https://www.linkedin.com/feed/update/urn:li:groupPost:12540463-7043980522854744064/
+Linkedin post link : https://www.linkedin.com/feed/update/urn:li:activity:7044023901089087489?utm_source=share&utm_medium=member_desktop
 
 
 
@@ -76,7 +76,7 @@ The purpose is if we feed any new data to this classifier, it would be able to  
 
 Dataset Link :   https://bit.ly/3kXTdox
 
-Linkedin post link : https://www.linkedin.com/feed/update/urn:li:groupPost:12540463-7044008051216961536/
+Linkedin post link : https://www.linkedin.com/feed/update/urn:li:activity:7044023840930172928?utm_source=share&utm_medium=member_desktop
 
 
                                         **Advanced Level**
@@ -87,7 +87,8 @@ Linkedin post link : https://www.linkedin.com/feed/update/urn:li:groupPost:12540
 Begin my neural network machine learning project with the MNIST Handwritten Digit Classification Challenge and using Tensorflow and CNN. It has a very user-friendly interface that’s ideal for beginners.
 
 Dataset Link : https://en.wikipedia.org/wiki/MNIST_database
-Linkedin post link :
+
+Linkedin post link :https://www.linkedin.com/feed/update/urn:li:groupPost:12540463-7044214026469355520/
 
 
 # TASK-8
