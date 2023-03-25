@@ -120,7 +120,7 @@ Linkedin post link : https://www.linkedin.com/feed/update/urn:li:groupPost:12540
 
 Dataset Link : https://www.kaggle.com/msambare/fer2013
 
-Linkedin post link : 
+Linkedin post link : https://www.linkedin.com/feed/update/urn:li:groupPost:12540463-7045413407637831680/
 
 
      If you have any Queries or suggestions, feel free to reach out to me.😌🙂
